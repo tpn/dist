@@ -1,0 +1,24 @@
+build:
+  entry_points: []
+  features: []
+  number: 1
+  string: ''
+  track_features: []
+package: {name: vim, version: 7.4.453}
+requirements:
+  build: [python]
+  conflicts: []
+  run: [python]
+source:
+  git_branch: ''
+  git_tag: ''
+  hg_tag: v7-4-453
+  hg_url: https://vim.googlecode.com/hg/
+  md5: ''
+  patches: []
+  svn_rev: ''
+test:
+  commands: []
+  files: []
+  imports: []
+  requires: []

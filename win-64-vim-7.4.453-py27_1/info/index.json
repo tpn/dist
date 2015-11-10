@@ -1,0 +1,12 @@
+{
+  "arch": "x86_64", 
+  "build": "py27_1", 
+  "build_number": 1, 
+  "depends": [
+    "python 2.7*"
+  ], 
+  "license": null, 
+  "name": "vim", 
+  "platform": "win", 
+  "version": "7.4.453"
+}
